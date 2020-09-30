@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+  version="1.1"
+  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+  preserveAspectRatio="none"
+   width="100%"
+   height="25"
+   viewBox="0 0 200 50"
+   id="svg-wawe"
+>
+  <g
+     id="layer1">
+    <path
+       style="fill:#fff"
+       d="m 0,50 200,0 0,-25 c 0,0 -35,-15 -50,-15 -17.5,0 -34,8.5 -50,15 -16,6 -32,15 -50,15 -18,0 -50,-15 -50,-15 z"
+    />
+    <path
+       style="fill:#ce5c00"
+       d="m 0,25 c 0,0 33,15 50,15 17.5,0 34,-8 50,-15 13.5,-5 32.5,-15 50,-15 17.38587,-0.504 50,15 50,15 0,0 -32.21822,-20.0046 -50,-20 -34.984,0.01 -65,29 -100,30 -17,0.5 -50,-10 -50,-10 z"
+     id="wawe-path"/>
+  </g>
+</svg>
